@@ -13,7 +13,7 @@ First, setup a new Discord Bot at the [Discord Developer Portal](https://discord
 
 <img src="img/gateway.png" width="500"> <br>
 
-Next, clone this repo or download the files manually. Once that is done make sure to replace the token in the [.env](.env) file with the one you obtained while seting up the bot. You can also modify the command prefix [here](index.js#33).
+Next, clone this repo or download the files manually. Once that is done make sure to replace the token in the [.env](.env) file with the one you obtained while seting up the bot. You can also modify the command prefix [here](index.js#L33).
 
 Finally, make sure to install all required dependencies by running this command: <br>
 `npm i package-lock.json` <br>
