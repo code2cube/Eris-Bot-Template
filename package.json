@@ -17,6 +17,7 @@
     },
     "homepage": "https://github.com/code2cube/Eris-Bot-Template#readme",
     "dependencies": {
+      "dotenv": "^16.0.3",
       "eris": "^0.17.2",
       "eris-additions": "^1.4.1"
     }
