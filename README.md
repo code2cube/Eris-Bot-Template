@@ -7,9 +7,10 @@ Features include:
 * 2 Sample Commands
 * 1 Sample Event
 
-# Setup
+<img src="img/preview.png" width="500"> <br>
 
-First, setup a new Discord Bot at the [Discord Developer Portal](https://discord.com/developers/applications). Make sure to enable gateway intents and add the bot to your server(s). Also make sure to reset the token and copy the new one.<br>
+# Setup
+First, setup a new Discord Bot at the [Discord Developer Portal](https://discord.com/developers/applications). Make sure to enable gateway intents and add the bot to your server(s) by going to `OAuth2` **>** `URL Generator` **>** `Selecting Bot as a Scope` **>** `Select the necessary permissions` **>** `Copy and go to the generated URL on the bottom`. Also make sure to reset the token and copy the new one.<br>
 
 <img src="img/gateway.png" width="500"> <br>
 
