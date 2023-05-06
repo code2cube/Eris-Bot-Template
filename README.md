@@ -20,5 +20,3 @@ Finally, make sure to install all required dependencies by running this command:
 `npm i package-lock.json` <br>
 Start the bot by running this command: <br>
 `node index.js` <br>
-
-![](img/eris.svg)
